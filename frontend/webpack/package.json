@@ -1,0 +1,20 @@
+{
+	"name": "public",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@typetron/websockets": "^0.3.9"
+	},
+	"devDependencies": {
+		"webpack": "^5.58.1",
+		"webpack-cli": "^4.9.0"
+	},
+	"sideEffects": false
+}
