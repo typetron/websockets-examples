@@ -12,7 +12,7 @@ $ npm start
 
 Pick you favorite frontend technology. You can find the available example in the `frontend` directory
 
-#### Angular
+#### 1. Angular
 
 ```sh
 $ cd frontend/angular
@@ -22,7 +22,7 @@ $ npm start
 
 Check the Angular app console on [http://localhost:4200](http://localhost:4200)) to see the WebSockets message.
 
-#### React
+#### 2. React
 
 ```sh
 $ cd frontend/react
@@ -32,11 +32,11 @@ $ npm start
 
 React will automatically open a browser window with the frontend app. Check you console to see the WebSockets message.
 
-#### Vue
+#### 3. Vue
 
 _In progress_
 
-#### Webpack (just a simple website, with no frameworks)
+#### 4. Webpack (just a simple website, with no frameworks)
 
 ```sh
 $ cd frontend/webpack
